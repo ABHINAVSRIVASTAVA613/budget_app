@@ -1,3 +1,4 @@
 # budget_app
 A basic budget app to calculate your monthly expenses and income.
-![expense app](https://user-images.githubusercontent.com/77098533/160774011-9028863f-8cdd-42a9-b919-e81f211217e9.png)
+![expense app (2)](https://user-images.githubusercontent.com/77098533/160774462-28107e95-c8d1-4366-8616-549b05dc8b45.jpg)
+
